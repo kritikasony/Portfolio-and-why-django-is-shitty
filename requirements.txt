@@ -161,7 +161,7 @@ touch==2019.4.13
 traitlets==4.3.3
 typed-ast==1.4.1
 unicodecsv==0.14.1
-urllib3==1.25.8
+urllib3==1.26.5
 values==2019.4.13
 wcwidth==0.1.8
 webencodings==0.5.1
